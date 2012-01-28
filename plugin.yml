@@ -1,0 +1,8 @@
+author: jamietech
+description: "Ban users on death with lightning strikes, notifications and logs simulating hard-core mode"
+main: tk.nekotech.hardcore.Hardcore
+name: jtHardcore
+startup: postworld
+url: http://nekotech.tk/
+website: http://dev.nekotech.tk/
+version: '0.1'
